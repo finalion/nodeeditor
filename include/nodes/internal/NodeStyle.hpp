@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <QtGui/QColor>
 
@@ -45,6 +45,9 @@ public:
 
   QColor WarningColor;
   QColor ErrorColor;
+
+  // rect radius parameter
+  float RectRadius;
 
   float PenWidth;
   float HoveredPenWidth;

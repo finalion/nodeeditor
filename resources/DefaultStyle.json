@@ -1,4 +1,4 @@
-{
+﻿{
   "FlowViewStyle": {
     "BackgroundColor": [53, 53, 53],
     "FineGridColor": [60, 60, 60],
@@ -18,6 +18,8 @@
     "FilledConnectionPointColor": "cyan",
     "ErrorColor": "red",
     "WarningColor": [128, 128, 0],
+
+    "RectRadius": 10,
 
     "PenWidth": 1.0,
     "HoveredPenWidth": 1.5,
